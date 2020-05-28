@@ -21,7 +21,10 @@ GitHub：https://github.com/cao-zha/phpcms-tree
 
 鸣谢：品络 www.pinluo.com  &ensp;  穷店 www.qiongdian.com
 
+
 ### 图片预览
 
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0528/163033_ae7d7b47_7397417.png "1.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0528/163042_0708d171_7397417.png "2.png")
 
 
