@@ -10,16 +10,16 @@ phpcms-tree，是一个从PHPCMS v9最新版中提取出来的无限级别分类
 
 支持本程序，请到Gitee和GitHub给我们点Star！
 
-Gitee：https://gitee.com/caozha/phpcms-tree
+Gitee：https://gitee.com/dengzhenhua/phpcms-tree
 
-GitHub：https://github.com/cao-zha/phpcms-tree
+GitHub：https://github.com/dengcao/phpcms-tree
 
 
-### 关于开发者
+### 关于
 
-开发：草札 www.caozha.com
+开发：[邓草博客 blog.5300.cn](http://blog.5300.cn)
 
-鸣谢：品络 www.pinluo.com  &ensp;  穷店 www.qiongdian.com
+赞助：[品络互联 www.pinluo.com](http://www.pinluo.com)  &ensp;  [AI工具箱 5300.cn](http://5300.cn)  &ensp;  [汉语言文学网 hyywx.com](http://hyywx.com)  &ensp;  [雄马 xiongma.cn](http://xiongma.cn) &ensp;  [优惠券 tm.gs](http://tm.gs)
 
 
 ### 图片预览
